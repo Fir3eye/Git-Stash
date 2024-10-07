@@ -1,1 +1,4 @@
-apt install ansible 
+
+apt install ansible
+apt install docker.io
+
